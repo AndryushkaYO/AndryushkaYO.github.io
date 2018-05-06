@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/AndryushkaYO/AndryushkaYO.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[My mother's BIRTHDAY](https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NzIxaWVzcjdoOW41ZDBnaXZtZmJoaWxhb2MgYW5kcmkueW92YmFrQG0&amp;tmsrc=andri.yovbak%40gmail.com) and ![Image](https://www.google.com/cale
-ndar/images/ext/gc_button1_uk.gif)
-
+[My mother's BIRTHDAY](https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NzIxaWVzcjdoOW41ZDBnaXZtZmJoaWxhb2MgYW5kcmkueW92YmFrQG0&amp;tmsrc=andri.yovbak%40gmail.com) [Image](https://www.google.com/calendar/images/ext/gc_button1_uk.gif)
+<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NzIxaWVzcjdoOW41ZDBnaXZtZmJoaWxhb2MgYW5kcmkueW92YmFrQG0&amp;tmsrc=andri.yovbak%40gmail.com"><img border="0" src="https://www.google.com/cale
+ndar/images/ext/gc_button1_uk.gif"></a>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -19,8 +19,7 @@ Syntax highlighted code block
 ### Header 3
 
 
-<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NzIxaWVzcjdoOW41ZDBnaXZtZmJoaWxhb2MgYW5kcmkueW92YmFrQG0&amp;tmsrc=andri.yovbak%40gmail.com"><img border="0" src="https://www.google.com/cale
-ndar/images/ext/gc_button1_uk.gif"></a>
+
 - Bulleted
 - List
 
