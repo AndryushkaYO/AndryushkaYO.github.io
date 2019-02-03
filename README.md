@@ -1,8 +1,8 @@
 
 # [Homework 1](https://andryushkaYO.github.io/FLX_homework_1/homework/index.html)
-# [Homework 2.1](https://andryushkaYO.github.io/FLX_homework_2/homework/index.html)
-# [Homework 2.2](https://andryushkaYO.github.io/FLX_homework_2/homework/index2.html)
-# [Homework 3](https://andryushkaYO.github.io/FLX_homework_3/homework/index.html)
+# [Homework 2](https://andryushkaYO.github.io/FLX_homework_2/homework/index.html)
+# [Homework 3.1](https://andryushkaYO.github.io/FLX_homework_3/homework/index.html)
+# [Homework 3.2](https://andryushkaYO.github.io/FLX_homework_3/homework/index2.html)
 # [Homework 4](https://andryushkaYO.github.io/FLX_homework_4/homework/index.html)
 # [Homework 5](https://andryushkaYO.github.io/FLX_homework_5/homework/index.html)
 ## Here I shared   **my mother's birthday**!!!!!!! :)
